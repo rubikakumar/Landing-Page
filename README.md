@@ -31,7 +31,7 @@ This project is a responsive landing page template designed to help businesses g
    npm start
    
 ## Running the Application
-After starting the application, it will be available at http://localhost:3000 in your web browser.
+After starting the application, it will be available at http://localhost:5174 in your web browser.
 
 ## Code Explanation
 
