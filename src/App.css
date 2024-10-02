@@ -1,0 +1,6 @@
+@media (max-width: 576px) {
+  .your-class {
+    padding: 10px;
+    text-align: center;
+  }
+}
